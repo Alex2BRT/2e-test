@@ -1,0 +1,61 @@
+
+
+
+div#page div{
+	display: inline-block;
+	background-color: ;
+	width: ;
+}
+
+div#page div.rightbox
+{
+	background-color: ;
+	vertical-align:top;
+
+}
+
+div#page div.leftbox
+{
+	background-color:;
+	vertical-align:top;
+}
+
+h1
+{
+	color: #CB4335; 
+}
+
+h2
+{
+	color: #154360; 
+}
+
+
+body{
+	background-color:#909497;
+}
+
+#page
+{
+	widlt:600px;
+	margin:10 auto;
+	background-color: ;
+	text-align: center;
+	align-content: center;
+	color: black;
+}
+
+footer 
+{
+	background-color:#D0D3D4;
+	color: black;
+}
+
+header 
+{
+	background-color:#D0D3D4;
+	color: black;
+}
+
+
+form input[type="text"]
